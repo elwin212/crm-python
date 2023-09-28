@@ -16,6 +16,9 @@ This is a basic Customer Relationship Management (CRM) system built using Django
 - Django (3.0 or higher)
 - MySQL database server
 
+  You can choose any database you want since Django abstracts away the database layer. You won't directly manipulate the database itself.
+  
+
 ## Usage
 
 - Log in to the CRM application using your registered account.
